@@ -8,7 +8,7 @@ const Items = ({ id, description, title, img, price, quantity }) => {
     <>
       <div className="items-info">
         <div className="product-img">
-          <img src={img} alt="iamge" />
+          <img src={img} alt="image" />
         </div>
 
         <div className="title">
